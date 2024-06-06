@@ -1,0 +1,6 @@
+1.Admin-Full form
+2.Admin-Category
+3.Admin-Add Product
+4.User-Search Result
+5.User-Add to Cart
+6.User-Check out
