@@ -4,3 +4,4 @@
 4.User-Search Result
 5.User-Add to Cart
 6.User-Check out
+7.User-Checkin
